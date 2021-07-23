@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# Secrets
+*.txt
+
+#Passwords
+.node-persist
+data/
